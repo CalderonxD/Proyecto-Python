@@ -1,0 +1,10 @@
+Servicios ofrecidos:
+PREPAGO:
+Nombre: Navegacion 200MB + WhatsApp 1dia, Precio: 2000, Tamaño: 200MB, Vigencia: 1 dias, Tipo: internet
+
+POSTPAGO:
+Nombre: Internet Movil L ULTRA 21, Precio: 60000, Tamaño: 60GB, Vigencia: 30 dias, Tipo: Datos
+
+PRODUCTOS
+Nombre: TecnoCamon 18P, Marca: Tecno, Caracteristicas: Android 12, 8GB de RAM, Bateria 5000mAh, CPU Helio G96, Camara frontal 16M, Camara trasera 48M Triple camara, Pantalla 1080x2460, Precio: 960000
+Nombre: j2 prime , Marca: samsung, Caracteristicas: no se esta re viejo, Precio: 120000

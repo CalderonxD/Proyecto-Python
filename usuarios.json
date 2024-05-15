@@ -1,0 +1,128 @@
+{
+    "usuarios": [
+        {
+            "nombre": "santiago",
+            "numero": "3001438671",
+            "id": "1099736902",
+            "direccion": "cra 28 #16-61",
+            "ciudad": "Bucaramanga",
+            "rol": "Admin"
+        },
+        {
+            "nombre": "joan",
+            "numero": "30012314125",
+            "id": "1008712124",
+            "direccion": "cra 10 #12-12",
+            "ciudad": "Bucarmanga",
+            "categoria": "",
+            "rol": "Cliente"
+        },
+        {
+            "nombre": "maryuri",
+            "numero": "300124124",
+            "id": "181818",
+            "direccion": "cra 15 # equisde",
+            "ciudad": "Bucaramanga",
+            "categoria": "",
+            "rol": "Cliente",
+            "servicios": [
+                {
+                    "nombre": "Internet Movil L ULTRA 21",
+                    "precio": "60000",
+                    "tamano": "60GB",
+                    "dias": "30",
+                    "tipo": "Datos",
+                    "filtro": "postpago"
+                }
+            ]
+        },
+        {
+            "nombre": "isabella",
+            "numero": "4567654",
+            "id": "8888",
+            "direccion": "norte",
+            "ciudad": "bucaramanga",
+            "categoria": "",
+            "rol": "Cliente",
+            "servicios": [
+                {
+                    "nombre": "Navegacion 200MB + WhatsApp 1dia",
+                    "precio": "2000",
+                    "tamano": "200MB",
+                    "dias": "1",
+                    "tipo": "internet",
+                    "filtro": "prepago"
+                }
+            ]
+        },
+        {
+            "nombre": "kevin",
+            "numero": "54523",
+            "id": "2222",
+            "direccion": "asdasd",
+            "ciudad": "asdasd",
+            "categoria": "Cliente nuevo",
+            "rol": "Cliente",
+            "servicios": [
+                {
+                    "nombre": "Navegacion 200MB + WhatsApp 1dia",
+                    "precio": "2000",
+                    "tamano": "200MB",
+                    "dias": "1",
+                    "tipo": "internet",
+                    "filtro": "prepago"
+                },
+                {
+                    "nombre": "Internet Movil L ULTRA 21",
+                    "precio": "60000",
+                    "tamano": "60GB",
+                    "dias": "30",
+                    "tipo": "Datos",
+                    "filtro": "postpago"
+                }
+            ],
+            "Productos": [
+                {
+                    "nombre": "TecnoCamon 18P",
+                    "marca": "Tecno",
+                    "caracteristicas": "Android 12, 8GB de RAM, Bateria 5000mAh, CPU Helio G96, Camara frontal 16M, Camara trasera 48M Triple camara, Pantalla 1080x2460",
+                    "precio": "960000"
+                }
+            ]
+        }
+    ],
+    "servicios_prepago": [
+        {
+            "nombre": "Navegacion 200MB + WhatsApp 1dia",
+            "precio": "2000",
+            "tamano": "200MB",
+            "dias": "1",
+            "tipo": "internet",
+            "filtro": "prepago"
+        }
+    ],
+    "servicios_postpago": [
+        {
+            "nombre": "Internet Movil L ULTRA 21",
+            "precio": "60000",
+            "tamano": "60GB",
+            "dias": "30",
+            "tipo": "Datos",
+            "filtro": "postpago"
+        }
+    ],
+    "productos": [
+        {
+            "nombre": "TecnoCamon 18P",
+            "marca": "Tecno",
+            "caracteristicas": "Android 12, 8GB de RAM, Bateria 5000mAh, CPU Helio G96, Camara frontal 16M, Camara trasera 48M Triple camara, Pantalla 1080x2460",
+            "precio": "960000"
+        },
+        {
+            "nombre": "j2 prime ",
+            "marca": "samsung",
+            "caracteristicas": "no se esta re viejo",
+            "precio": "120000"
+        }
+    ]
+}

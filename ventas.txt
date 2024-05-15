@@ -1,0 +1,38 @@
+Conteo de ventas por usuarios:
+
+Usuario: santiago
+ID: 1099736902
+Servicios contratados:
+  No tiene servicios contratados
+Productos comprados:
+  No tiene productos comprados
+
+Usuario: joan
+ID: 1008712124
+Servicios contratados:
+  No tiene servicios contratados
+Productos comprados:
+  No tiene productos comprados
+
+Usuario: maryuri
+ID: 181818
+Servicios contratados:
+  - Internet Movil L ULTRA 21: 1 vez/veces
+Productos comprados:
+  No tiene productos comprados
+
+Usuario: isabella
+ID: 8888
+Servicios contratados:
+  - Navegacion 200MB + WhatsApp 1dia: 1 vez/veces
+Productos comprados:
+  No tiene productos comprados
+
+Usuario: kevin
+ID: 2222
+Servicios contratados:
+  - Navegacion 200MB + WhatsApp 1dia: 1 vez/veces
+  - Internet Movil L ULTRA 21: 1 vez/veces
+Productos comprados:
+  - TecnoCamon 18P: 1 vez/veces
+
