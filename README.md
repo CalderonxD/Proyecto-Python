@@ -1,6 +1,6 @@
-# Título del Proyecto🌐
+# Proyecto Python🌐
 
-Proyecto Python.
+
 
 ## Descripción📖
 
