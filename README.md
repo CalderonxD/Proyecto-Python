@@ -10,10 +10,6 @@ Aplicativo para claro, el aplicativo es muy intuitivo de lado al usuario, ofrece
 
 Es todo por medio de la consola
 
-## Empezando 🚀
-
-Estas instrucciones te guiarán para obtener una copia de este proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.
-
 ### Prerrequisitos 📋
 
 Lista de software y herramientas, incluyendo versiones, que necesitas para instalar y ejecutar este proyecto:
